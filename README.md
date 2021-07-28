@@ -4,7 +4,11 @@ A Python-driven utility to notify Windows 10 users when Spotify song changes
 
 Usage: Just run the file (either python snotify.py or the compiled exe) and it will notify you when Spotify title changes.
 
-# Compiling
+##Installing requirements
+pip install -r requirements.txt
+or
+pip3 install -r requirements.txt
+## Compiling
 
 You will need cx_freeze on a Windows 10 machine and the following libraries:
 
